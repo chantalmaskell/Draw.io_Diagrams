@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T15:30:13.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_lyDJmQQ_fkj6DLDyEoy" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T16:36:53.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nDFcuWZ9MDut4SEm3TAs" version="21.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2922" dy="2424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2459" dy="2006" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="1owg42yloBusg6G1mB5r-115" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-193" y="-820" width="2384" height="2084" as="geometry" />
+        </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-0" value="&lt;ol style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; padding-top: 10px; padding-bottom: 10px; font-size: 17px; color: rgb(68, 68, 68); font-family: proxima-nova, sans-serif; letter-spacing: 0.175px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Head Tube&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Top Tube&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Down Tube&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Seat Tube&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Seat Stay&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Chain Stay&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-150" y="-10" width="180" height="190" as="geometry" />
         </mxCell>
@@ -124,10 +127,10 @@
         <mxCell id="1owg42yloBusg6G1mB5r-39" value="Bike assembled, move to next bicycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1620" y="-288.5" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-40" value="&lt;b&gt;Robotic Arm 2 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Move to bin&lt;/li&gt;&lt;li&gt;If bin has item&lt;/li&gt;&lt;li&gt;Pick item&lt;/li&gt;&lt;li&gt;Rotate to assembly surface&lt;/li&gt;&lt;li&gt;Signal that arm is in assembly position&lt;/li&gt;&lt;li&gt;Wait for holding agent&lt;/li&gt;&lt;li&gt;Move to next bin&lt;/li&gt;&lt;li&gt;Repeat until all bins empty&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1owg42yloBusg6G1mB5r-40" value="&lt;b&gt;Robotic Arm 2 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Move to bin&lt;/li&gt;&lt;li&gt;If bin has item&lt;/li&gt;&lt;li&gt;Pick item&lt;/li&gt;&lt;li&gt;Rotate to assembly surface&lt;/li&gt;&lt;li&gt;Signal that arm is in assembly position&lt;/li&gt;&lt;li&gt;Wait for holding agent&lt;/li&gt;&lt;li&gt;Move to next bin&lt;/li&gt;&lt;li&gt;Repeat until bin 2,3,5 and 6 are empty&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="-120" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-41" value="&lt;b&gt;Robotic Arm 1 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Move to bin&lt;/li&gt;&lt;li&gt;If bin has item&lt;/li&gt;&lt;li&gt;Pick item&lt;/li&gt;&lt;li&gt;Rotate to assembly surface&lt;/li&gt;&lt;li&gt;Signal that arm is in assembly position&lt;/li&gt;&lt;li&gt;Wait for holding agent&lt;/li&gt;&lt;li&gt;Move to next bin&lt;/li&gt;&lt;li&gt;Repeat until all bins empty&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1owg42yloBusg6G1mB5r-41" value="&lt;b&gt;Robotic Arm 1 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Move to bin&lt;/li&gt;&lt;li&gt;If bin has item&lt;/li&gt;&lt;li&gt;Pick item&lt;/li&gt;&lt;li&gt;Rotate to assembly surface&lt;/li&gt;&lt;li&gt;Signal that arm is in assembly position&lt;/li&gt;&lt;li&gt;Wait for holding agent&lt;/li&gt;&lt;li&gt;Move to next bin&lt;/li&gt;&lt;li&gt;Repeat until bin 1 and 4 are empty&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="-580" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-42" value="&lt;b&gt;Holding Agent - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Wait for robotic arm to reach assembly surface&lt;/li&gt;&lt;li&gt;If arm in position, hold item&lt;/li&gt;&lt;li&gt;Signal to Welding Agent that item is being held&lt;/li&gt;&lt;li&gt;Wait for joints A,B,D to be welded&lt;/li&gt;&lt;li&gt;When complete, release item to moving agent&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -152,7 +155,7 @@
           <mxGeometry x="1179" y="-299.5" width="30" height="24" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-49" value="B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1070" y="-342" width="30" height="24" as="geometry" />
+          <mxGeometry x="1071" y="-335.5" width="30" height="24" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1owg42yloBusg6G1mB5r-49" target="1owg42yloBusg6G1mB5r-46">
           <mxGeometry relative="1" as="geometry" />
@@ -180,10 +183,10 @@
         <mxCell id="1owg42yloBusg6G1mB5r-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.981;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1owg42yloBusg6G1mB5r-56" target="1owg42yloBusg6G1mB5r-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-58" value="&lt;b&gt;Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;If pieces 1,2,3 are being held, weld Joint A&lt;/li&gt;&lt;li&gt;If pieces 2,4 are being held, weld Joint B&lt;/li&gt;&lt;li&gt;If pieces 4,5 are being held, weld Joint D&lt;/li&gt;&lt;li&gt;Signal that Welding Agent 1 is complete&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1owg42yloBusg6G1mB5r-58" value="&lt;b&gt;Welding Agent 1 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;If pieces 1,2,3 are being held, weld Joint A&lt;/li&gt;&lt;li&gt;If pieces 2,4 are being held, weld Joint B&lt;/li&gt;&lt;li&gt;If pieces 4,5 are being held, weld Joint D&lt;/li&gt;&lt;li&gt;Signal that Welding Agent 1 is complete&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="-482" width="280" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-59" value="&lt;b&gt;Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;If pieces 3,4,6 are being held, weld Joint C&lt;/li&gt;&lt;li&gt;If pieces 5,6 are being held, weld Joint E&lt;/li&gt;&lt;li&gt;Signal that Welding Agent 2 is complete&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1owg42yloBusg6G1mB5r-59" value="&lt;b&gt;Welding Agent 2 - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;If pieces 3,4,6 are being held, weld Joint C&lt;/li&gt;&lt;li&gt;If pieces 5,6 are being held, weld Joint E&lt;/li&gt;&lt;li&gt;Signal that Welding Agent 2 is complete&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="-147" width="280" height="107" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-60" value="&lt;b&gt;Bin - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Bin full/bin empty&lt;/li&gt;&lt;li&gt;All bins empty&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
