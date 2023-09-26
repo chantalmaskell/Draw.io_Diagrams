@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T17:31:58.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Wftj3T_zjCs7xnFEuaq3" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T17:40:03.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y0juj4RK8mIUtUKnPUWr" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1833" dy="1771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2098" dy="2110" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,22 +16,22 @@
         <mxCell id="1owg42yloBusg6G1mB5r-2" value="&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; padding-left: 1rem; margin-inline-start: 0.2rem; margin-bottom: 18px; font-family: proxima-nova, arial, sans-serif; font-size: 17px; color: rgb(68, 68, 68); letter-spacing: 0.175px; text-align: left; background-color: rgb(255, 255, 255);&quot; id=&quot;yui_3_17_2_1_1695556231344_37&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Pieces should be welded together at their joining points:&lt;ul style=&quot;box-sizing: border-box; margin-top: 0px; padding-left: 1rem; margin-inline-start: 0.2rem; margin-bottom: 18px;&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;(1,2,3)&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;(2,4)&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;(3,4,6)&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;(4,5)&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;(5,6)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="-10" width="260" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-3" value="Bin 1 - Head Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-3" value="Bin 1 - Head Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="-407" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-4" value="Bin 3 - Down&lt;br&gt;Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="-307" width="90" height="90" as="geometry" />
+        <mxCell id="1owg42yloBusg6G1mB5r-4" value="Bin 3 - Down&lt;br&gt;Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-292" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-5" value="Bin 6 - Chain Stay" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="600" y="-207" width="90" height="90" as="geometry" />
+        <mxCell id="1owg42yloBusg6G1mB5r-5" value="Bin 6 - Chain Stay" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="-192" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-6" value="Bin 5 - Seat Stay" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="-207" width="90" height="90" as="geometry" />
+        <mxCell id="1owg42yloBusg6G1mB5r-6" value="Bin 5 - Seat Stay" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="-192" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-7" value="Bin 2 - &lt;br&gt;Top Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="-307" width="90" height="90" as="geometry" />
+        <mxCell id="1owg42yloBusg6G1mB5r-7" value="Bin 2 - &lt;br&gt;Top Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="500" y="-292" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-8" value="Bin 4 - Seat Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-8" value="Bin 4 - Seat Tube" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="-407" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://liverpool-online-study.com/pluginfile.php/159072/mod_assign/intro/Bicycle.png;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -85,22 +85,22 @@
         <mxCell id="1owg42yloBusg6G1mB5r-25" value="Once Welding Agent 1 &amp;amp; 2 are complete, move entire bike from assembly surface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1410" y="-217" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-26" value="Holding Agent (HA4)&lt;br&gt;- Piece 4" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-26" value="Holding Agent (HA4)&lt;br&gt;- Piece 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="880" y="-182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-27" value="Holding Agent (HA5)&lt;br&gt;- Piece 5" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-27" value="Holding Agent (HA5)&lt;br&gt;- Piece 5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1010" y="-182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-28" value="Holding Agent (HA6)&lt;br&gt;- Piece 6" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-28" value="Holding Agent (HA6)&lt;br&gt;- Piece 6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1140" y="-182" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-29" value="Holding Agent (HA1)&lt;br&gt;- Piece 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-29" value="Holding Agent (HA1)&lt;br&gt;- Piece 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="879.5" y="-407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-30" value="Holding Agent (HA2)&lt;br&gt;- Piece 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-30" value="Holding Agent (HA2)&lt;br&gt;- Piece 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1010.5" y="-407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-31" value="Holding Agent (HA3)&lt;br&gt;- Piece 3" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="1owg42yloBusg6G1mB5r-31" value="Holding Agent (HA3)&lt;br&gt;- Piece 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1140.5" y="-407" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-32" value="Robotic Arm 1&lt;br&gt;(Primary - 1,4)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -195,8 +195,8 @@
         <mxCell id="1owg42yloBusg6G1mB5r-61" value="Assembly Surface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="853" y="-278.5" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1owg42yloBusg6G1mB5r-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490" y="-422" width="209" height="320" as="geometry" />
+        <mxCell id="1owg42yloBusg6G1mB5r-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="490.5" y="-303.5" width="209" height="211.5" as="geometry" />
         </mxCell>
         <mxCell id="1owg42yloBusg6G1mB5r-63" value="&lt;b&gt;Holding Agent - Percepts:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Wait for robotic arm to reach assembly surface&lt;/li&gt;&lt;li&gt;If arm in position, hold item&lt;/li&gt;&lt;li&gt;Signal to Welding Agent that item is being held&lt;/li&gt;&lt;li&gt;Wait for joints C,E to be welded&lt;/li&gt;&lt;li&gt;When complete, release item to moving agent&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="954" y="-107" width="306" height="120" as="geometry" />
@@ -215,6 +215,15 @@
         </mxCell>
         <mxCell id="hs603zmyzqbK3QKY6A2t-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1owg42yloBusg6G1mB5r-29" target="1owg42yloBusg6G1mB5r-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hs603zmyzqbK3QKY6A2t-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;arcSize=14;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490.5" y="-411.5" width="209" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hs603zmyzqbK3QKY6A2t-3" value="&lt;b&gt;Primary&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="438" y="-387" width="69" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="hs603zmyzqbK3QKY6A2t-4" value="&lt;b&gt;Secondary&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="438" y="-223.5" width="69" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
